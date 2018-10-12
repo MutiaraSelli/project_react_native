@@ -11,9 +11,8 @@ import {Text} from 'react-native';
 }
 const salon = {
     warna: {
-        color : 'black',
-        fonthSize : 50,
+        color : '#2c3e50',
+        fontSize : 40,
         fontweight: 'bold',
-        backgroundColor : 'grey'
     }
 }
